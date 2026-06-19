@@ -1,0 +1,666 @@
+
+        Email: rahul@gmail.com
+        Phone: 9876543210
+        Skills: Python, Java, C, HTML, CSS, SQL, Machine Learning
+        Score: 60
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul.kumar@gmail.com
+        Phone: 9876543210
+        Skills: Python, Java, C, C++, HTML, CSS, JavaScript, SQL, DBMS, Machine Learning, Deep Learning, Pandas, NumPy
+        Score: 100
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul.kumar@gmail.com
+        Phone: 9876543210
+        Skills: Python, Java, C, C++, HTML, CSS, JavaScript, SQL, DBMS, Machine Learning, Deep Learning, Pandas, NumPy
+        Score: 100
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul.kumar@gmail.com
+        Phone: 9876543210
+        Skills: Python, Java, C, C++, HTML, CSS, JavaScript, SQL, DBMS, Machine Learning, Deep Learning, Pandas, NumPy
+        Score: 100
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul.kumar@gmail.com
+        Phone: 9876543210
+        Skills: Python, Java, C, C++, HTML, CSS, JavaScript, SQL, DBMS, Machine Learning, Deep Learning, Pandas, NumPy
+        Score: 100
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul.kumar@gmail.com
+        Phone: 9876543210
+        Skills: Python, Java, C, C++, HTML, CSS, JavaScript, SQL, DBMS, Machine Learning, Deep Learning, Pandas, NumPy
+        Score: 100
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul.kumar@gmail.com
+        Phone: 9876543210
+        Skills: Python, Java, C, C++, HTML, CSS, JavaScript, SQL, DBMS, Machine Learning, Deep Learning, Pandas, NumPy
+        Score: 100
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul.kumar@gmail.com
+        Phone: 9876543210
+        Skills: Python, Java, C, C++, HTML, CSS, JavaScript, SQL, DBMS, Machine Learning, Deep Learning, Pandas, NumPy
+        Score: 100
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul.kumar@gmail.com
+        Phone: 9876543210
+        Skills: Python, Java, C, C++, HTML, CSS, JavaScript, SQL, DBMS, Machine Learning, Deep Learning, Pandas, NumPy
+        Score: 100
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul.kumar@gmail.com
+        Phone: 9876543210
+        Skills: Python, Java, C, C++, HTML, CSS, JavaScript, SQL, DBMS, Machine Learning, Deep Learning, Pandas, NumPy
+        Score: 100
+        Status: Selected
+        ----------------------------------
+        
+        Email: 
+        Phone: 
+        Skills: Python, C, HTML
+        Score: 20
+        Status: Rejected
+        ----------------------------------
+        
+        Email: 
+        Phone: 
+        Skills: Python, Java, C, HTML, CSS, JavaScript, SQL
+        Score: 40
+        Status: Rejected
+        ----------------------------------
+        
+        Email: 
+        Phone: 
+        Skills: Python, C, SQL, Machine Learning, Deep Learning, Pandas, NumPy
+        Score: 100
+        Status: Selected
+        ----------------------------------
+        
+        Email: 
+        Phone: 
+        Skills: C, SQL
+        Score: 20
+        Status: Rejected
+        ----------------------------------
+        
+        Email: 
+        Phone: 
+        Skills: Java, C, CSS, JavaScript
+        Score: 0
+        Status: Rejected
+        ----------------------------------
+        
+        Email: 
+        Phone: 
+        Skills: C, SQL
+        Score: 20
+        Status: Rejected
+        ----------------------------------
+        
+        Email: rahul@gmail.com
+        Phone: 9876543210
+        Skills: Python, Java, C, HTML, CSS, SQL, Machine Learning
+        Score: 60
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul.kumar@gmail.com
+        Phone: 9876543210
+        Skills: Python, Java, C, C++, HTML, CSS, JavaScript, SQL, DBMS, Machine Learning, Deep Learning, Pandas, NumPy
+        Score: 100
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul@gmail.com
+        Phone: 9876543210
+        Skills: Python, Java, C, HTML, CSS, SQL, Machine Learning
+        Score: 60
+        Status: Selected
+        ----------------------------------
+        
+        Email: biswajit.dora@gmail.com
+        Phone: 9876543210
+        Skills: Python, Java, C, C++, HTML, CSS, SQL, DBMS
+        Score: 40
+        Status: Rejected
+        ----------------------------------
+        
+        Email: ayush.kumar@gmail.com
+        Phone: 8765432109
+        Skills: C
+        Score: 0
+        Status: Rejected
+        ----------------------------------
+        
+        Email: vicky.singh@gmail.com
+        Phone: 7654321098
+        Skills: C, HTML, CSS
+        Score: 0
+        Status: Rejected
+        ----------------------------------
+        
+        Email: rahul@gmail.com
+        Phone: 9876543210
+        Skills: Python, Java, C, HTML, CSS, SQL, Machine Learning
+        Score: 60
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul@gmail.com
+        Phone: 9876543210
+        Skills: Python, Java, C, HTML, CSS, SQL, Machine Learning
+        Score: 60
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul@gmail.com
+        Phone: 9876543210
+        Skills: Python, Java, C, HTML, CSS, SQL, Machine Learning
+        Score: 60
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul@gmail.com
+        Phone: 9876543210
+        Skills: Python, Java, C, HTML, CSS, SQL, Machine Learning
+        Score: 60
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul@gmail.com
+        Phone: 9876543210
+        Skills: Python, Java, C, HTML, CSS, SQL, Machine Learning
+        Score: 60
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul.kumar@gmail.com
+        Phone: 9876543210
+        Skills: Python, Java, C, C++, HTML, CSS, JavaScript, SQL, DBMS, Machine Learning, Deep Learning, Pandas, NumPy
+        Score: 100
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul.kumar@gmail.com
+        Phone: 9876543210
+        Skills: Python, Java, C, C++, HTML, CSS, JavaScript, SQL, DBMS, Machine Learning, Deep Learning, Pandas, NumPy
+        Score: 100
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul@gmail.com
+        Phone: 9876543210
+        Skills: Python, Java, C, HTML, CSS, SQL, Machine Learning
+        Score: 60
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul@gmail.com
+        Phone: 9876543210
+        Skills: Python, Java, C, HTML, CSS, SQL, Machine Learning
+        Score: 60
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul@gmail.com
+        Phone: 9876543210
+        Skills: Python, Java, C, HTML, CSS, SQL, Machine Learning
+        Score: 60
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul@gmail.com
+        Phone: 9876543210
+        Skills: Python, Java, C, HTML, CSS, SQL, Machine Learning
+        Score: 60
+        Status: Selected
+        ----------------------------------
+        
+        Email: ayush.kumar@gmail.com
+        Phone: 8765432109
+        Skills: C
+        Score: 0
+        Status: Rejected
+        ----------------------------------
+        
+        Email: rahul.kumar@gmail.com
+        Phone: 9876543210
+        Skills: Python, Java, C, C++, HTML, CSS, JavaScript, SQL, DBMS, Machine Learning, Deep Learning, Pandas, NumPy
+        Score: 100
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul.kumar@gmail.com
+        Phone: 9876543210
+        Skills: Python, Java, C, C++, HTML, CSS, JavaScript, SQL, DBMS, Machine Learning, Deep Learning, Pandas, NumPy
+        Score: 100
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul@gmail.com
+        Phone: 9876543210
+        Skills: Python, SQL, Machine Learning, HTML, CSS
+        Score: 60
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul@gmail.com
+        Phone: 9876543210
+        Skills: Python, SQL, Machine Learning, HTML, CSS
+        Score: 60
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul@gmail.com
+        Phone: 9876543210
+        Skills: Python, SQL, Machine Learning, HTML, CSS
+        Score: 60
+        Status: Selected
+        ----------------------------------
+        
+        Email: ayush.kumar@gmail.com
+        Phone: 8765432109
+        Skills: 
+        Score: 0
+        Status: Rejected
+        ----------------------------------
+        
+        Email: rahul.kumar@gmail.com
+        Phone: 9876543210
+        Skills: Python, SQL, Machine Learning, Pandas, NumPy, HTML, CSS
+        Score: 100
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul.kumar@gmail.com
+        Phone: 9876543210
+        Skills: Python, SQL, Machine Learning, Pandas, NumPy, HTML, CSS
+        Score: 100
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul@gmail.com
+        Phone: 9876543210
+        Skills: Python, SQL, Machine Learning, HTML, CSS
+        Score: 60
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul@gmail.com
+        Phone: 9876543210
+        Skills: Python, SQL, Machine Learning, HTML, CSS
+        Score: 60
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul@gmail.com
+        Phone: 9876543210
+        Skills: Python, SQL, Machine Learning, HTML, CSS
+        Score: 60
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul@gmail.com
+        Phone: 9876543210
+        Skills: Python, SQL, Machine Learning, HTML, CSS
+        Score: 60
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul@gmail.com
+        Phone: 9876543210
+        Skills: Python, SQL, Machine Learning, HTML, CSS
+        Score: 60
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul@gmail.com
+        Phone: 9876543210
+        Skills: Python, SQL, Machine Learning, HTML, CSS
+        Score: 60
+        Status: Selected
+        ----------------------------------
+        
+        Email: vicky.singh@gmail.com
+        Phone: 7654321098
+        Skills: HTML, CSS
+        Score: 0
+        Status: Rejected
+        ----------------------------------
+        
+        Email: rahul@gmail.com
+        Phone: 9876543210
+        Skills: Python, SQL, Machine Learning, HTML, CSS
+        Score: 60
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul.kumar@gmail.com
+        Phone: 9876543210
+        Skills: Python, SQL, Machine Learning, Pandas, NumPy, HTML, CSS
+        Score: 100
+        Status: Selected
+        ----------------------------------
+        
+        Email: vicky.singh@gmail.com
+        Phone: 7654321098
+        Skills: HTML, CSS
+        Score: 0
+        Status: Rejected
+        ----------------------------------
+        
+        Email: biswajit.dora@gmail.com
+        Phone: 9876543210
+        Skills: Python, SQL, HTML, CSS
+        Score: 40
+        Status: Rejected
+        ----------------------------------
+        
+        Email: rahul@gmail.com
+        Phone: 9876543210
+        Skills: Python, SQL, Machine Learning, HTML, CSS
+        Score: 60
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul.kumar@gmail.com
+        Phone: 9876543210
+        Skills: Python, SQL, Machine Learning, Pandas, NumPy, HTML, CSS
+        Score: 100
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul@gmail.com
+        Phone: 9876543210
+        Skills: Python, SQL, Machine Learning, HTML, CSS
+        Score: 60
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul.kumar@gmail.com
+        Phone: 9876543210
+        Skills: Python, SQL, Machine Learning, Pandas, NumPy, HTML, CSS
+        Score: 100
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul.kumar@gmail.com
+        Phone: 9876543210
+        Skills: Python, SQL, Machine Learning, Pandas, NumPy, HTML, CSS
+        Score: 100
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul@gmail.com
+        Phone: 9876543210
+        Skills: Python, SQL, Machine Learning, HTML, CSS
+        Score: 60
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul@gmail.com
+        Phone: 9876543210
+        Skills: Python, SQL, Machine Learning, HTML, CSS
+        Score: 60
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul.kumar@gmail.com
+        Phone: 9876543210
+        Skills: Python, SQL, Machine Learning, Pandas, NumPy, HTML, CSS
+        Score: 100
+        Status: Selected
+        ----------------------------------
+        
+        Email: ayush.kumar@gmail.com
+        Phone: 8765432109
+        Skills: 
+        Score: 0
+        Status: Rejected
+        ----------------------------------
+        
+        Email: rahul@gmail.com
+        Phone: 9876543210
+        Skills: Python, SQL, Machine Learning, HTML, CSS
+        Score: 60
+        Status: Selected
+        ----------------------------------
+        
+        Email: ayush.kumar@gmail.com
+        Phone: 8765432109
+        Skills: 
+        Score: 0
+        Status: Rejected
+        ----------------------------------
+        
+        Email: rahul.kumar@gmail.com
+        Phone: 9876543210
+        Skills: Python, SQL, Machine Learning, Pandas, NumPy, HTML, CSS
+        Score: 100
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul@gmail.com
+        Phone: 9876543210
+        Skills: Python, SQL, Machine Learning, HTML, CSS
+        Score: 60
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul.kumar@gmail.com
+        Phone: 9876543210
+        Skills: Python, SQL, Machine Learning, Pandas, NumPy, HTML, CSS
+        Score: 100
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul@gmail.com
+        Phone: 9876543210
+        Skills: Python, SQL, Machine Learning, HTML, CSS
+        Score: 60
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul.kumar@gmail.com
+        Phone: 9876543210
+        Skills: Python, SQL, Machine Learning, Pandas, NumPy, HTML, CSS
+        Score: 100
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul.kumar@gmail.com
+        Phone: 9876543210
+        Skills: Python, SQL, Machine Learning, Pandas, NumPy, HTML, CSS
+        Score: 100
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul@gmail.com
+        Phone: 9876543210
+        Skills: Python, SQL, Machine Learning, HTML, CSS
+        Score: 60
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul.kumar@gmail.com
+        Phone: 9876543210
+        Skills: Python, SQL, Machine Learning, Pandas, NumPy, HTML, CSS
+        Score: 100
+        Status: Selected
+        ----------------------------------
+        
+        Email: biswajit.dora@gmail.com
+        Phone: 9876543210
+        Skills: Python, SQL, HTML, CSS
+        Score: 40
+        Status: Rejected
+        ----------------------------------
+        
+        Email: ayush.kumar@gmail.com
+        Phone: 8765432109
+        Skills: 
+        Score: 0
+        Status: Rejected
+        ----------------------------------
+        
+        Email: 
+        Phone: 
+        Skills: 
+        Score: 0
+        Status: Rejected
+        ----------------------------------
+        
+        Email: sneha@gmail.com
+        Phone: 9876543213
+        Skills: Python, SQL, Machine Learning, Pandas
+        Score: 80
+        Status: Selected
+        ----------------------------------
+        
+        Email: amit@gmail.com
+        Phone: 9876543212
+        Skills: Python, Machine Learning
+        Score: 40
+        Status: Rejected
+        ----------------------------------
+        
+        Email: rahul@gmail.com
+        Phone: 9876543210
+        Skills: Python, SQL, Pandas
+        Score: 60
+        Status: Selected
+        ----------------------------------
+        
+        Email: 
+        Phone: 
+        Skills: 
+        Score: 0
+        Status: Rejected
+        ----------------------------------
+        
+        Email: priya@gmail.com
+        Phone: 9876543211
+        Skills: HTML, CSS
+        Score: 0
+        Status: Rejected
+        ----------------------------------
+        
+        Email: 
+        Phone: 
+        Skills: 
+        Score: 0
+        Status: Rejected
+        ----------------------------------
+        
+        Email: rahul.kumar@gmail.com
+        Phone: 9876543210
+        Skills: Python, SQL, Machine Learning, Pandas, NumPy, HTML, CSS
+        Score: 100
+        Status: Selected
+        ----------------------------------
+        
+        Email: vicky.singh@gmail.com
+        Phone: 7654321098
+        Skills: HTML, CSS
+        Score: 0
+        Status: Rejected
+        ----------------------------------
+        
+        Email: rahul@gmail.com
+        Phone: 9876543210
+        Skills: Python, SQL, Machine Learning, HTML, CSS
+        Score: 60
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul@gmail.com
+        Phone: 9876543210
+        Skills: Python, SQL, Machine Learning, HTML, CSS
+        Score: 60
+        Status: Selected
+        ----------------------------------
+        
+        Email: priya@gmail.com
+        Phone: 9876543211
+        Skills: HTML, CSS
+        Score: 0
+        Status: Rejected
+        ----------------------------------
+        
+        Email: rahul.kumar@gmail.com
+        Phone: 9876543210
+        Skills: Python, SQL, Machine Learning, Pandas, NumPy, HTML, CSS
+        Score: 100
+        Status: Selected
+        ----------------------------------
+        
+        Email: 
+        Phone: 
+        Skills: 
+        Score: 0
+        Status: Rejected
+        ----------------------------------
+        
+        Email: sneha@gmail.com
+        Phone: 9876543213
+        Skills: Python, SQL, Machine Learning, Pandas
+        Score: 80
+        Status: Selected
+        ----------------------------------
+        
+        Email: rahul.kumar@gmail.com
+        Phone: 9876543210
+        Skills: Python, SQL, Machine Learning, Pandas, NumPy, HTML, CSS
+        Score: 100
+        Status: Selected
+        ----------------------------------
+        
+        Email: amit@gmail.com
+        Phone: 9876543212
+        Skills: Python, Machine Learning
+        Score: 40
+        Status: Rejected
+        ----------------------------------
+        
+        Email: rahul@gmail.com
+        Phone: 9876543210
+        Skills: Python, SQL, Machine Learning, HTML, CSS
+        Score: 60
+        Status: Selected
+        ----------------------------------
+        
+        Email: 
+        Phone: 
+        Skills: 
+        Score: 0
+        Status: Rejected
+        ----------------------------------
+        
+        Email: amit@gmail.com
+        Phone: 9876543212
+        Skills: Python, Machine Learning
+        Score: 40
+        Status: Rejected
+        ----------------------------------
+        
+        Email: 
+        Phone: 
+        Skills: 
+        Score: 0
+        Status: Rejected
+        ----------------------------------
+        
